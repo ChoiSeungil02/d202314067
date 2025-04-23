@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("최승일");
 		World.run();
 		Hello.run();
+		World.run2();
 	}
 }
